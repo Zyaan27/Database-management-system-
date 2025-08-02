@@ -20,6 +20,8 @@ This project is a comprehensive implementation of a **Banking Database Managemen
 - ✅ **Set Operations**: UNION, INTERSECT, MINUS
 - ✅ **Updates & Deletes**
 - ✅ **Complex Query Examples** with subqueries and conditions
+- ![Language](https://img.shields.io/badge/language-SQL-blue)
+
 
 ---
 
