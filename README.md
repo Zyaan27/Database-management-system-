@@ -1,4 +1,5 @@
-# 💾 Database Management System Project
+# 💾 Database Management System Project  ![Language](https://img.shields.io/badge/language-SQL-blue)
+
 
 This project is a comprehensive implementation of a **Banking Database Management System** using **SQL (Oracle syntax)**. It features table creation, data insertion, constraints, and a wide range of SQL queries including joins, subqueries, aggregation, and set operations.
 
@@ -20,8 +21,7 @@ This project is a comprehensive implementation of a **Banking Database Managemen
 - ✅ **Set Operations**: UNION, INTERSECT, MINUS
 - ✅ **Updates & Deletes**
 - ✅ **Complex Query Examples** with subqueries and conditions
-- ![Language](https://img.shields.io/badge/language-SQL-blue)
-
+  
 
 ---
 
